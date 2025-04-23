@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Big Data Courses Like Hadoop, Hive, HBase**
 
-- 👨‍💻 All of my projects are available at [https://github.com/doaaredaa](https://github.com/doaaredaa)
-
 - 📫 How to reach me **doaa.reda.ali98@gmail.com**
 
 - 📄 Know about my experiences [https://www.novypro.com/profile_projects/doaareda](https://www.novypro.com/profile_projects/doaareda)
